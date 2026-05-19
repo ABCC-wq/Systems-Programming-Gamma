@@ -1,4 +1,4 @@
-# Mini Shell in Python — Gamma Team
+# Mini Shell in Python
 
 A simple Unix-style command-line shell written in Python.
 
