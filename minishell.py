@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Mini Shell - COSC-3411 System Programming
+# Mini Shell - System Programming
 # Members: Ali Almousa, Hassan Albrahim, Ahmad Alsahan, Abdulaziz Almotairi
 
 import os
