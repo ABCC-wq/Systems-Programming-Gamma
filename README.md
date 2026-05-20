@@ -2,7 +2,7 @@
 
 A simple Unix-style command-line shell written in Python.
 
-**Course:** COSC-3411 — System Programming
+**Course:** — System Programming
 **Project:** Mini Shell in Python (Lambda topic)
 
 ## Team Members
